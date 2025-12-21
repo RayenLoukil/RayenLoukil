@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rayen  <br>💻 Computer science student  <br><br>💪 Gym | 🎬 Editing | 🏔️ Hiking<br>
+👋 Hi, I'm Rayen  <br>💻 Computer science student  <br> Gym💪 | Editing🎬 |  Hiking🏔️ <br>
 
 
 # 💻 Tech Stack:
